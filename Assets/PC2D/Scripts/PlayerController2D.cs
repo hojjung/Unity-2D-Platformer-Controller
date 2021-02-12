@@ -41,6 +41,7 @@ public class PlayerController2D : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+  
         // use last state to restore some ladder specific values
         if (_motor.motorState != PlatformerMotor2D.MotorState.FreedomState)
         {
@@ -55,6 +56,8 @@ public class PlayerController2D : MonoBehaviour
             _motor.Jump();
             _motor.DisableRestrictedArea();
         }
+
+        
 
         _motor.jumpingHeld = Input.GetButton(PC2D.Input.JUMP);
 
@@ -75,6 +78,12 @@ public class PlayerController2D : MonoBehaviour
         else
         {
             _motor.normalizedXMovement = 0;
+
+            if (Input.GetAxisRaw(PC2D.Input.VERTICAL) < -0.5f)
+            {
+                print("JumpOffInput");
+                _motor.StartJumpOff();
+            }
         }
 
         if (Input.GetAxis(PC2D.Input.VERTICAL) != 0)
@@ -118,5 +127,7 @@ public class PlayerController2D : MonoBehaviour
         {
             _motor.Dash();
         }
+
+     
     }
 }

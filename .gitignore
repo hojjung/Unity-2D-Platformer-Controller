@@ -1,4 +1,6 @@
 Assembly-*
+*.ldf
+*.mdf
 *.csproj
 *.pidb
 *.unityproj

@@ -1,12 +1,15 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using PC2D;
 using UnityEngine;
 
 [RequireComponent(typeof(BoxCollider2D))]
 public class PlatformerMotor2D : MonoBehaviour
 {
-    #region Public
+    bool bIsGroundOWP = false;
 
+    bool bIsJumpOffing = false;
     /// <summary>
     /// The static environment check mask. This should only be environment that doesn't move.
     /// </summary>
@@ -47,6 +50,7 @@ public class PlatformerMotor2D : MonoBehaviour
     /// Optimizations are made in the motor if it isn't expecting any moving platforms.
     /// </summary>
     public LayerMask movingPlatformLayerMask;
+
 
     /// <summary>
     /// When checking for moving platforms that may have moved into the motor the corners are automatically casted on. This
@@ -1045,9 +1049,6 @@ public class PlatformerMotor2D : MonoBehaviour
         return ((0x1 << obj.layer) & staticEnvLayerMask) != 0;
     }
 
-    #endregion
-
-    #region Private
 
     private LayerMask _collisionMask;
 
@@ -1222,8 +1223,20 @@ public class PlatformerMotor2D : MonoBehaviour
         }
     }
 
+    int DefaultLayerIndex;
+
+    int StaticEnvLayerIndex;
+
+    int MovingPlatformerLayerIndex;
+
     private void Start()
     {
+
+        DefaultLayerIndex = LayerMask.NameToLayer("Default");
+
+        StaticEnvLayerIndex = LayerMask.NameToLayer("Static Environment");
+
+        MovingPlatformerLayerIndex = LayerMask.NameToLayer("Moving Platforms");
         _previousLoc = _collider2D.bounds.center;
         // initial set, do not use ChangeState
         motorState = MotorState.Falling;
@@ -1572,7 +1585,8 @@ public class PlatformerMotor2D : MonoBehaviour
 
         UpdateInformationFromMovement();
 
-        HandlePostWallInteraction();
+        if (!IsJumpOffing())
+            HandlePostWallInteraction();
 
         // If our state is not in the air then open up the possibility of air jumps (we need to be able to air jump if
         // we walk off an edge so it can't be based of when a jump occurred).
@@ -1586,9 +1600,10 @@ public class PlatformerMotor2D : MonoBehaviour
             _velocity.y = 0;
         }
 
-        if (IsGrounded())
+        if (IsGrounded() && !IsJumpOffing())
         {
             Vector3 slopeDir = GetDownSlopeDir();
+
 
             if (IsForceSlipping() && _velocity != Vector2.zero && Mathf.Sign(_velocity.x) == Mathf.Sign(slopeDir.x))
             {
@@ -1622,6 +1637,11 @@ public class PlatformerMotor2D : MonoBehaviour
         }
 
         SetLastJumpType();
+    }
+
+    private bool IsJumpOffing()
+    {
+        return bIsJumpOffing;
     }
 
     private void FixedUpdate()
@@ -1736,8 +1756,8 @@ public class PlatformerMotor2D : MonoBehaviour
             minDistanceFromEnv);
 
         Collider2D col = Physics2D.OverlapArea(
-            checkBounds.min, 
-            checkBounds.max, 
+            checkBounds.min,
+            checkBounds.max,
             _collisionMask);
 
         if (col != null)
@@ -1966,7 +1986,7 @@ public class PlatformerMotor2D : MonoBehaviour
         {
             //Debug.Log(IsMovingPlatform(_collidersUpAgainst[DIRECTION_DOWN].gameObject));
         }
-        
+
         if (HasFlag(CollidedSurface.Ground) && IsMovingPlatform(_collidersUpAgainst[DIRECTION_DOWN].gameObject))
         {
             _movingPlatformState.platform = _collidersUpAgainst[DIRECTION_DOWN].GetComponent<MovingPlatformMotor2D>();
@@ -2305,7 +2325,7 @@ public class PlatformerMotor2D : MonoBehaviour
             return;
         }
 
-        if (IsInAir() && !_ignoreGravity)
+        if ((IsJumpOffing() || IsInAir()) && !_ignoreGravity)
         {
             // If we are falling fast then multiply the gravityMultiplier.
             if (fallFast)
@@ -2562,10 +2582,12 @@ public class PlatformerMotor2D : MonoBehaviour
             _collidedNormals[DIRECTION_LEFT] == Vector2.right ||
             HasFlag(CollidedSurface.RightWall) &&
             _velocity.x > 0 &&
-            _collidedNormals[DIRECTION_RIGHT] == Vector2.left)
+            _collidedNormals[DIRECTION_RIGHT] == Vector2.left||
+            IsJumpOffing())
         {
             _velocity.x = 0;
         }
+
 
         if (IsGrounded() &&
             _disallowedSlopeNormal != Vector2.zero &&
@@ -2971,6 +2993,7 @@ public class PlatformerMotor2D : MonoBehaviour
 
         bool haveGotOverlapping = false;
         int numOfNoDistanceHits = 0;
+        int numOfOWP = 0;
 
         for (int i = 0; i < numOfHits; i++)
         {
@@ -2979,6 +3002,8 @@ public class PlatformerMotor2D : MonoBehaviour
             {
                 // ignore OWP ?
                 if (!oneWayPlatformsAreWalls) continue;
+
+                numOfOWP++;
 
                 bool isTouching = false;
 
@@ -2993,12 +3018,14 @@ public class PlatformerMotor2D : MonoBehaviour
                     if (_overlappingColliders[j] == _hits[i].collider)
                     {
                         isTouching = true;
+
                         break;
                     }
                 }
 
                 if (isTouching)
                 {
+
                     if (checkWereTouching && ((1 << _hits[i].collider.gameObject.layer) & movingPlatformLayerMask) != 0)
                     {
                         // If it's a moving platform then we need to know if we were touching.
@@ -3075,6 +3102,15 @@ public class PlatformerMotor2D : MonoBehaviour
                 closeBy = toHit.sqrMagnitude;
                 closestHit = _hits[i];
             }
+        }
+
+        if (numOfOWP > 0)
+        {
+            bIsGroundOWP = true;
+        }
+        else
+        {
+            bIsGroundOWP = false;
         }
 
         return closestHit;
@@ -3474,5 +3510,30 @@ public class PlatformerMotor2D : MonoBehaviour
         }
     }
 
-    #endregion
+    public void StartJumpOff()
+    {
+        //CheckGround(100.0f);
+        if (!IsGrounded()|| !bIsGroundOWP || bIsJumpOffing)
+        {
+            return;
+        }
+
+        StartCoroutine("JumpOff");
+    }
+
+    IEnumerator JumpOff()
+    {
+        //
+        bIsJumpOffing = true;
+
+        Physics2D.IgnoreLayerCollision(DefaultLayerIndex, StaticEnvLayerIndex, true);
+        Physics2D.IgnoreLayerCollision(DefaultLayerIndex, MovingPlatformerLayerIndex, true);
+        Jump(0.01f);
+        yield return new WaitForSeconds(0.2f);
+        Physics2D.IgnoreLayerCollision(DefaultLayerIndex, StaticEnvLayerIndex, false);
+        Physics2D.IgnoreLayerCollision(DefaultLayerIndex, MovingPlatformerLayerIndex, false);
+
+        bIsJumpOffing = false;
+    }
+
 }
