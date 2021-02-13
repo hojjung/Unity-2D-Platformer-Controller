@@ -11,6 +11,12 @@ public class GameManager : Singleton<GameManager>
     {
         base.Awake();
 
+        Application.targetFrameRate = 60;
+
+        Input.multiTouchEnabled = true;
+
+        Input.simulateMouseWithTouches = true;
+
         sceneUnits = new Dictionary<ETeamID, List<Health>>();
     }
 
@@ -74,5 +80,13 @@ public class GameManager : Singleton<GameManager>
         }
 
         return nearHealth;
+    }
+
+    private void Update()
+    {
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 }
