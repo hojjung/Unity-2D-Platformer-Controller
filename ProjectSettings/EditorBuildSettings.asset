@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/PC2D/Example/One Way Platforms/One Way Platforms.unity
+    path: Assets/One Way Platforms.unity
     guid: fefc75f114e1c504ebdf5cc843fe076d
   m_configObjects: {}
