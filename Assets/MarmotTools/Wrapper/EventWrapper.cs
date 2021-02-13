@@ -6,6 +6,8 @@ namespace MyMarmot.Tools
      class EventWrapper { }
 
     [Serializable]
+    public class EventVector2 : UnityEvent<Vector2> { }
+    [Serializable]
     public class EventVector3 : UnityEvent<Vector3> { }
     [Serializable]
     public class EventVector3Float : UnityEvent<Vector3,float> { }

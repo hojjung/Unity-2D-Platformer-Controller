@@ -40,7 +40,7 @@ public class PlayerController2D : MonoBehaviour
         _motor.oneWayPlatformsAreWalls = _oneWayPlatformsAreWalls;
     }
 
-    public void UpdateJoyStick(Vector3 pos, float deltaTime)//점프 대시 버튼 별개
+    public void UpdateJoyStick(Vector2 pos)//점프 대시 버튼 별개
     {
         // use last state to restore some ladder specific values
         if (_motor.motorState != PlatformerMotor2D.MotorState.FreedomState)

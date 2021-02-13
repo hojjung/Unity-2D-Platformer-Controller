@@ -1,33 +1,39 @@
 ﻿using UnityEngine;
+using UnityEngine.EventSystems;
 
 namespace MyMarmot.Tools
 {
     public class TouchPad : MonoBehaviour
     {
         private RectTransform _touchPad;
+
         private int _touchId = -1;//컨트롤로영역 입력구분 아이디
+
         private Vector3 _starPos = Vector3.zero;//입력시작좌표
+
         public float _dragRadius = 60f;//컨트롤러반지름
 
         private bool _buttonPressed = false;
 
         [SerializeField]
-        private EventVector3Float _OnTouchDrag;
+        private EventVector2 _OnTouchDrag;
 
-        public EventVector3Float m_OnTouchDrag { get => _OnTouchDrag; }
-
-        public float m_TimeTick { get;private set; }
+        public EventVector2 m_OnTouchDrag { get => _OnTouchDrag; }
 
         private void Start()
         {
             _touchPad = GetComponent<RectTransform>();
             _starPos = _touchPad.position;
+            Input.multiTouchEnabled = true;
+            Input.simulateMouseWithTouches = true;
+            Application.targetFrameRate = 60;
         }
-        public void ButtonDown()
+
+        public void ButtonDown(BaseEventData data)
         {
             _buttonPressed = true;
         }
-        public void ButtonUp()
+        public void ButtonUp(BaseEventData data)
         {
             _buttonPressed = false;
             HandleInput(_starPos);
@@ -35,9 +41,13 @@ namespace MyMarmot.Tools
 
         private void Update()
         {
-            m_TimeTick = Time.deltaTime;
+            #if UNITY_ANDROID
             HandleTouchInput();
+            #endif
+
+            #if UNITY_EDITOR || UNITY_EDITOR_WIN || UNITY_STANDALONE
             HandleInput(Input.mousePosition);
+            #endif
         }
 
         private void HandleTouchInput()
@@ -49,22 +59,18 @@ namespace MyMarmot.Tools
                 foreach (Touch touch in Input.touches)//터치입력을 하나씩 조회
                 {
                     i++;//터치아이디 번호 증가
-                    Vector3 touchPos = new Vector3(touch.position.x, touch.position.y);//현재 터치좌표
+                    Vector2 touchPos = new Vector2(touch.position.x, touch.position.y);//현재 터치좌표
                     if (touch.phase == TouchPhase.Began)//터치입력시작시
                     {
                         if (touch.position.x <= (_starPos.x + _dragRadius))//그리고 터치의좌표가 현재방향키 범위내에 있다면
                         {
                             _touchId = i;//이 터치 아이디를 기준으로 방향컨트롤러를 조작하도록 합니다.
                         }
-
                     }
 
-                    if (touch.phase == TouchPhase.Moved || touch.phase == TouchPhase.Stationary)//터치입력이 움직였다거나 가만히있는 상황이라면
+                    if (_touchId == i)//터치 아이디 지정된 경우에만
                     {
-                        if (_touchId == i)//터치 아이디 지정된 경우에만
-                        {
-                            HandleInput(touchPos);//좌표 입력을 받아들입니다
-                        }
+                        HandleInput(touchPos);//좌표 입력을 받아들입니다
                     }
                     if (touch.phase == TouchPhase.Ended)//터치입력끝났는데
                     {
@@ -97,11 +103,12 @@ namespace MyMarmot.Tools
             {
                 _touchPad.position = _starPos;//방향키를 원위치로 돌려놓음
             }
+
             Vector3 diff = _touchPad.position - _starPos;//방향키와 기준점의 차이구함
 
-            Vector2 normDiff = new Vector3(diff.x / _dragRadius, diff.y / _dragRadius);//방향키를 유지한채로 거리를 나눠 방향만을 얻어냄
+            Vector2 normDiff = new Vector2(diff.x / _dragRadius, diff.y / _dragRadius);//방향키를 유지한채로 거리를 나눠 방향만을 얻어냄
 
-            m_OnTouchDrag?.Invoke(new Vector3(normDiff.x, normDiff.y, 0), m_TimeTick);
+            m_OnTouchDrag?.Invoke(normDiff);
 
         }
 
