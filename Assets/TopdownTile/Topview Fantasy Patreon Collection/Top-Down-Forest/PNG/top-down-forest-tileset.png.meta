@@ -1,0 +1,3059 @@
+fileFormatVersion: 2
+guid: 5122dae2c91c6574c9a97b429bb5a9ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2490813466703122743
+    second: top-down-forest-tileset_0
+  - first:
+      213: 2104837908650638955
+    second: top-down-forest-tileset_1
+  - first:
+      213: -6055985321785675964
+    second: top-down-forest-tileset_2
+  - first:
+      213: -7837148572417327593
+    second: top-down-forest-tileset_3
+  - first:
+      213: 3167192549898907690
+    second: top-down-forest-tileset_4
+  - first:
+      213: -8991151150397471879
+    second: top-down-forest-tileset_5
+  - first:
+      213: 2556475827213176496
+    second: top-down-forest-tileset_6
+  - first:
+      213: 191988761434596993
+    second: top-down-forest-tileset_7
+  - first:
+      213: 3104035303066772378
+    second: top-down-forest-tileset_8
+  - first:
+      213: 8198237757216810482
+    second: top-down-forest-tileset_9
+  - first:
+      213: -4792205272340631534
+    second: top-down-forest-tileset_10
+  - first:
+      213: -2285049631439639360
+    second: top-down-forest-tileset_11
+  - first:
+      213: 5992477565788648617
+    second: top-down-forest-tileset_12
+  - first:
+      213: 1786830780262703448
+    second: top-down-forest-tileset_13
+  - first:
+      213: -508519376776852650
+    second: top-down-forest-tileset_14
+  - first:
+      213: 9157831321220061695
+    second: top-down-forest-tileset_15
+  - first:
+      213: -436312740622920462
+    second: top-down-forest-tileset_16
+  - first:
+      213: -2817963203427326827
+    second: top-down-forest-tileset_17
+  - first:
+      213: 4315992564951405858
+    second: top-down-forest-tileset_18
+  - first:
+      213: -4709250564925452484
+    second: top-down-forest-tileset_19
+  - first:
+      213: -4564885169063104380
+    second: top-down-forest-tileset_20
+  - first:
+      213: 1333588755100629067
+    second: top-down-forest-tileset_21
+  - first:
+      213: 506306805455784369
+    second: top-down-forest-tileset_22
+  - first:
+      213: -2015422823206939363
+    second: top-down-forest-tileset_23
+  - first:
+      213: 3815604364413862748
+    second: top-down-forest-tileset_24
+  - first:
+      213: -3972703043473600818
+    second: top-down-forest-tileset_25
+  - first:
+      213: 4597390696459159756
+    second: top-down-forest-tileset_26
+  - first:
+      213: 706735496322375371
+    second: top-down-forest-tileset_27
+  - first:
+      213: -2551883367635698856
+    second: top-down-forest-tileset_28
+  - first:
+      213: -8353574442498845839
+    second: top-down-forest-tileset_29
+  - first:
+      213: 3309809445434407465
+    second: top-down-forest-tileset_30
+  - first:
+      213: 3812376334046895155
+    second: top-down-forest-tileset_31
+  - first:
+      213: -4510504253795357962
+    second: top-down-forest-tileset_32
+  - first:
+      213: -4637173613161116416
+    second: top-down-forest-tileset_33
+  - first:
+      213: 3693090130450818812
+    second: top-down-forest-tileset_34
+  - first:
+      213: 5278352541774902170
+    second: top-down-forest-tileset_35
+  - first:
+      213: 2718415190209536979
+    second: top-down-forest-tileset_36
+  - first:
+      213: -2825167976937213349
+    second: top-down-forest-tileset_37
+  - first:
+      213: 3178591218063356001
+    second: top-down-forest-tileset_38
+  - first:
+      213: 105112783673034087
+    second: top-down-forest-tileset_39
+  - first:
+      213: -191264873408107090
+    second: top-down-forest-tileset_40
+  - first:
+      213: 92504515367551258
+    second: top-down-forest-tileset_41
+  - first:
+      213: -9219442312407664355
+    second: top-down-forest-tileset_42
+  - first:
+      213: -475726143679286480
+    second: top-down-forest-tileset_43
+  - first:
+      213: 8290069877590630336
+    second: top-down-forest-tileset_44
+  - first:
+      213: 1178244832805225270
+    second: top-down-forest-tileset_45
+  - first:
+      213: 6588224850250171350
+    second: top-down-forest-tileset_46
+  - first:
+      213: -2768014164689764107
+    second: top-down-forest-tileset_47
+  - first:
+      213: 2347112661093084315
+    second: top-down-forest-tileset_48
+  - first:
+      213: -4390276811414772490
+    second: top-down-forest-tileset_49
+  - first:
+      213: -2735781366716926435
+    second: top-down-forest-tileset_50
+  - first:
+      213: -6013094582718529965
+    second: top-down-forest-tileset_51
+  - first:
+      213: -3026539837431050962
+    second: top-down-forest-tileset_52
+  - first:
+      213: 3556115867390608457
+    second: top-down-forest-tileset_53
+  - first:
+      213: 4576973265026297939
+    second: top-down-forest-tileset_54
+  - first:
+      213: 4316026686829122560
+    second: top-down-forest-tileset_55
+  - first:
+      213: 6328214270214208436
+    second: top-down-forest-tileset_56
+  - first:
+      213: 6468148251340059433
+    second: top-down-forest-tileset_57
+  - first:
+      213: -754303787242890887
+    second: top-down-forest-tileset_58
+  - first:
+      213: -3386779954255477648
+    second: top-down-forest-tileset_59
+  - first:
+      213: -3791993098100292674
+    second: top-down-forest-tileset_60
+  - first:
+      213: 8782621674422937896
+    second: top-down-forest-tileset_61
+  - first:
+      213: 8024626979503623793
+    second: top-down-forest-tileset_62
+  - first:
+      213: 3577971177799675344
+    second: top-down-forest-tileset_63
+  - first:
+      213: -5546127017017170493
+    second: top-down-forest-tileset_64
+  - first:
+      213: -4693190328607994558
+    second: top-down-forest-tileset_65
+  - first:
+      213: 3292214345895657125
+    second: top-down-forest-tileset_66
+  - first:
+      213: -9119216233486416916
+    second: top-down-forest-tileset_67
+  - first:
+      213: 5635300682868985505
+    second: top-down-forest-tileset_68
+  - first:
+      213: 2404621461849957180
+    second: top-down-forest-tileset_69
+  - first:
+      213: -2497103482428875757
+    second: top-down-forest-tileset_70
+  - first:
+      213: 8389417303510760204
+    second: top-down-forest-tileset_71
+  - first:
+      213: 704381721541248920
+    second: top-down-forest-tileset_72
+  - first:
+      213: 804235977572211245
+    second: top-down-forest-tileset_73
+  - first:
+      213: -3965080584430679045
+    second: top-down-forest-tileset_74
+  - first:
+      213: 5619187542587731705
+    second: top-down-forest-tileset_75
+  - first:
+      213: -5646902262870428773
+    second: top-down-forest-tileset_76
+  - first:
+      213: 416753639908802892
+    second: top-down-forest-tileset_77
+  - first:
+      213: -6475065538811450519
+    second: top-down-forest-tileset_78
+  - first:
+      213: 1907004724675021146
+    second: top-down-forest-tileset_79
+  - first:
+      213: -3269225598539946596
+    second: top-down-forest-tileset_80
+  - first:
+      213: -4459546166383872087
+    second: top-down-forest-tileset_81
+  - first:
+      213: 7737137080753908181
+    second: top-down-forest-tileset_82
+  - first:
+      213: -6675316876429314453
+    second: top-down-forest-tileset_83
+  - first:
+      213: 2155655846265560872
+    second: top-down-forest-tileset_84
+  - first:
+      213: -7986502671466812823
+    second: top-down-forest-tileset_85
+  - first:
+      213: -3776276495712218211
+    second: top-down-forest-tileset_86
+  - first:
+      213: 7917093868567041607
+    second: top-down-forest-tileset_87
+  - first:
+      213: 8912219900906234006
+    second: top-down-forest-tileset_88
+  - first:
+      213: 5639419259497244771
+    second: top-down-forest-tileset_89
+  - first:
+      213: 8156671592124754752
+    second: top-down-forest-tileset_90
+  - first:
+      213: -5517461119893704364
+    second: top-down-forest-tileset_91
+  - first:
+      213: -8172052801820599761
+    second: top-down-forest-tileset_92
+  - first:
+      213: 4826002716872718141
+    second: top-down-forest-tileset_93
+  - first:
+      213: 6245987756118311508
+    second: top-down-forest-tileset_94
+  - first:
+      213: 8202297927134318075
+    second: top-down-forest-tileset_95
+  - first:
+      213: -8033539652898525335
+    second: top-down-forest-tileset_96
+  - first:
+      213: -6551534856426203688
+    second: top-down-forest-tileset_97
+  - first:
+      213: -6989845850914066535
+    second: top-down-forest-tileset_98
+  - first:
+      213: 2996007238153913543
+    second: top-down-forest-tileset_99
+  - first:
+      213: -5654431140267927660
+    second: top-down-forest-tileset_100
+  - first:
+      213: 6960817691171181434
+    second: top-down-forest-tileset_101
+  - first:
+      213: 6323317839937107035
+    second: top-down-forest-tileset_102
+  - first:
+      213: 876026626463407189
+    second: top-down-forest-tileset_103
+  - first:
+      213: -2975854714456681579
+    second: top-down-forest-tileset_104
+  - first:
+      213: -5927980968742108501
+    second: top-down-forest-tileset_105
+  - first:
+      213: -553363648589121956
+    second: top-down-forest-tileset_106
+  - first:
+      213: 8294890707860433559
+    second: top-down-forest-tileset_107
+  - first:
+      213: 9186478144327093250
+    second: top-down-forest-tileset_108
+  - first:
+      213: -3329196422215477331
+    second: top-down-forest-tileset_109
+  - first:
+      213: -4030791547479679666
+    second: top-down-forest-tileset_110
+  - first:
+      213: 7586955898813902824
+    second: top-down-forest-tileset_111
+  - first:
+      213: 4059538059798447411
+    second: top-down-forest-tileset_112
+  - first:
+      213: -4655048051478040403
+    second: top-down-forest-tileset_113
+  - first:
+      213: -8017616910026390387
+    second: top-down-forest-tileset_114
+  - first:
+      213: 1922595025821332808
+    second: top-down-forest-tileset_115
+  - first:
+      213: 7439024844591417041
+    second: top-down-forest-tileset_116
+  - first:
+      213: -6211564895949369066
+    second: top-down-forest-tileset_117
+  - first:
+      213: 5871564776171116752
+    second: top-down-forest-tileset_118
+  - first:
+      213: -9209581672272308422
+    second: top-down-forest-tileset_119
+  - first:
+      213: 2487065403527189640
+    second: top-down-forest-tileset_120
+  - first:
+      213: 491378976996538200
+    second: top-down-forest-tileset_121
+  - first:
+      213: 8342313281677557381
+    second: top-down-forest-tileset_122
+  - first:
+      213: -4204998359454140406
+    second: top-down-forest-tileset_123
+  - first:
+      213: -5912024563503750755
+    second: top-down-forest-tileset_124
+  - first:
+      213: 6571101741697277741
+    second: top-down-forest-tileset_125
+  - first:
+      213: -6488713551541153681
+    second: top-down-forest-tileset_126
+  - first:
+      213: -2200461371448160923
+    second: top-down-forest-tileset_127
+  - first:
+      213: -643694962946406388
+    second: top-down-forest-tileset_128
+  - first:
+      213: 971962384248008623
+    second: top-down-forest-tileset_129
+  - first:
+      213: -5514508565561657039
+    second: top-down-forest-tileset_130
+  - first:
+      213: 4975045834679600107
+    second: top-down-forest-tileset_131
+  - first:
+      213: 7452320262886216036
+    second: top-down-forest-tileset_132
+  - first:
+      213: -8324490205856618820
+    second: top-down-forest-tileset_133
+  - first:
+      213: 6735157511777469439
+    second: top-down-forest-tileset_134
+  - first:
+      213: -8241770807671574033
+    second: top-down-forest-tileset_135
+  - first:
+      213: 1515257790592862876
+    second: top-down-forest-tileset_136
+  - first:
+      213: 1347081666631701428
+    second: top-down-forest-tileset_137
+  - first:
+      213: 7155988380954286649
+    second: top-down-forest-tileset_138
+  - first:
+      213: 5731976739404530995
+    second: top-down-forest-tileset_139
+  - first:
+      213: 3325701162356734722
+    second: top-down-forest-tileset_140
+  - first:
+      213: 2227659195557006158
+    second: top-down-forest-tileset_141
+  - first:
+      213: 7224622937730690445
+    second: top-down-forest-tileset_142
+  - first:
+      213: 6332177494366428333
+    second: top-down-forest-tileset_143
+  - first:
+      213: -6270534255933399360
+    second: top-down-forest-tileset_144
+  - first:
+      213: 3841845368900881373
+    second: top-down-forest-tileset_145
+  - first:
+      213: 8826101155390457084
+    second: top-down-forest-tileset_146
+  - first:
+      213: -3139450507387274574
+    second: top-down-forest-tileset_147
+  - first:
+      213: -7169376300096454471
+    second: top-down-forest-tileset_148
+  - first:
+      213: 3471930947238402228
+    second: top-down-forest-tileset_149
+  - first:
+      213: 5886087999366346016
+    second: top-down-forest-tileset_150
+  - first:
+      213: 1399791391510730031
+    second: top-down-forest-tileset_151
+  - first:
+      213: 6044314729471215137
+    second: top-down-forest-tileset_152
+  - first:
+      213: -3422668759993311406
+    second: top-down-forest-tileset_153
+  - first:
+      213: -3778479812015724203
+    second: top-down-forest-tileset_154
+  - first:
+      213: 5819573800597632325
+    second: top-down-forest-tileset_155
+  - first:
+      213: -8234580585001752733
+    second: top-down-forest-tileset_156
+  - first:
+      213: 3277590848814644635
+    second: top-down-forest-tileset_157
+  - first:
+      213: -4066902551212369706
+    second: top-down-forest-tileset_158
+  - first:
+      213: -8886946780745697299
+    second: top-down-forest-tileset_159
+  - first:
+      213: -1387136117704267661
+    second: top-down-forest-tileset_160
+  - first:
+      213: 5218491944077284279
+    second: top-down-forest-tileset_161
+  - first:
+      213: -4537296157582095453
+    second: top-down-forest-tileset_162
+  - first:
+      213: 4201908451743828116
+    second: top-down-forest-tileset_163
+  - first:
+      213: 2335872389050894344
+    second: top-down-forest-tileset_164
+  - first:
+      213: -6737107153342101083
+    second: top-down-forest-tileset_165
+  - first:
+      213: 651933334924414851
+    second: top-down-forest-tileset_166
+  - first:
+      213: -8853300161969769845
+    second: top-down-forest-tileset_167
+  - first:
+      213: 4943537043638977773
+    second: top-down-forest-tileset_168
+  - first:
+      213: -8943445706983823306
+    second: top-down-forest-tileset_169
+  - first:
+      213: 2889538604670693862
+    second: top-down-forest-tileset_170
+  - first:
+      213: 7303320734799580596
+    second: top-down-forest-tileset_171
+  - first:
+      213: 5006885416339843344
+    second: top-down-forest-tileset_172
+  - first:
+      213: -2253437804958373679
+    second: top-down-forest-tileset_173
+  - first:
+      213: 3476849341833608666
+    second: top-down-forest-tileset_174
+  - first:
+      213: -1398080122619400975
+    second: top-down-forest-tileset_175
+  - first:
+      213: 1102667824140399479
+    second: top-down-forest-tileset_176
+  - first:
+      213: -9200699921901986033
+    second: top-down-forest-tileset_177
+  - first:
+      213: 3237283162282021513
+    second: top-down-forest-tileset_178
+  - first:
+      213: -324265163668891993
+    second: top-down-forest-tileset_179
+  - first:
+      213: -4306257072938173883
+    second: top-down-forest-tileset_180
+  - first:
+      213: 8253029062484490800
+    second: top-down-forest-tileset_181
+  - first:
+      213: -6456747081113153936
+    second: top-down-forest-tileset_182
+  - first:
+      213: 7767742983321821934
+    second: top-down-forest-tileset_183
+  - first:
+      213: -4513022792394027487
+    second: top-down-forest-tileset_184
+  - first:
+      213: -1297949040204196735
+    second: top-down-forest-tileset_185
+  - first:
+      213: -827468542555907879
+    second: top-down-forest-tileset_186
+  - first:
+      213: -3653148270193863646
+    second: top-down-forest-tileset_187
+  - first:
+      213: -7401314472908641132
+    second: top-down-forest-tileset_188
+  - first:
+      213: -5379238019011302508
+    second: top-down-forest-tileset_189
+  - first:
+      213: 3119046036525327030
+    second: top-down-forest-tileset_190
+  - first:
+      213: -5370550621066041432
+    second: top-down-forest-tileset_191
+  - first:
+      213: 6800853833558341692
+    second: top-down-forest-tileset_192
+  - first:
+      213: -6701701360668322221
+    second: top-down-forest-tileset_193
+  - first:
+      213: 6458069364451592450
+    second: top-down-forest-tileset_194
+  - first:
+      213: -9216582563969773001
+    second: top-down-forest-tileset_195
+  - first:
+      213: -1508448265529246046
+    second: top-down-forest-tileset_196
+  - first:
+      213: -6931056199450803033
+    second: top-down-forest-tileset_197
+  - first:
+      213: 2191998249459329945
+    second: top-down-forest-tileset_198
+  - first:
+      213: 5337221057588576437
+    second: top-down-forest-tileset_199
+  - first:
+      213: -4936330704108848322
+    second: top-down-forest-tileset_200
+  - first:
+      213: -4130078249083238568
+    second: top-down-forest-tileset_201
+  - first:
+      213: -6140929260533219159
+    second: top-down-forest-tileset_202
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-down-forest-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea663595ade6dd0800000000000000
+      internalID: -2490813466703122743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb5ee0de2e53d10800000000000000
+      internalID: 2104837908650638955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2cf19f61d4fba0800000000000000
+      internalID: -6055985321785675964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71efa1975eadc3390800000000000000
+      internalID: -7837148572417327593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fcf7f7d024fb20800000000000000
+      internalID: 3167192549898907690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c6b67aa3093380800000000000000
+      internalID: -8991151150397471879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0ae5583d6a7320800000000000000
+      internalID: 2556475827213176496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862d26e2c41aa200800000000000000
+      internalID: 191988761434596993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93219989afb31b20800000000000000
+      internalID: 3104035303066772378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56a17ddcdf5c170800000000000000
+      internalID: 8198237757216810482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f16be1baae7db0800000000000000
+      internalID: -4792205272340631534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc27e7877fd940e0800000000000000
+      internalID: -2285049631439639360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47459b89e892350800000000000000
+      internalID: 5992477565788648617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ea4ba0291cc810800000000000000
+      internalID: 1786830780262703448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b00d1325061f8f0800000000000000
+      internalID: -508519376776852650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9944ef017271f70800000000000000
+      internalID: 9157831321220061695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f49134cfd7e1f9f0800000000000000
+      internalID: -436312740622920462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a79d856594e8d0800000000000000
+      internalID: -2817963203427326827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d727ee5c75eb30800000000000000
+      internalID: 4315992564951405858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8f47df8165aeb0800000000000000
+      internalID: -4709250564925452484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807b81ef1546a0c0800000000000000
+      internalID: -4564885169063104380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487a3838ebd18210800000000000000
+      internalID: 1333588755100629067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90e866b53c60700800000000000000
+      internalID: 506306805455784369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151986de97c704e0800000000000000
+      internalID: -2015422823206939363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53815814ffb3f430800000000000000
+      internalID: 3815604364413862748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece84a751af1ed8c0800000000000000
+      internalID: -3972703043473600818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8422cfa763dcf30800000000000000
+      internalID: 4597390696459159756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce54708034dec900800000000000000
+      internalID: 706735496322375371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb8dbf893e59cd0800000000000000
+      internalID: -2551883367635698856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173131ebd44221c80800000000000000
+      internalID: -8353574442498845839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab95d872eceed20800000000000000
+      internalID: 3309809445434407465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c98f4b31848e430800000000000000
+      internalID: 3812376334046895155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa3a267487761c0800000000000000
+      internalID: -4510504253795357962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d87b9ea2375afb0800000000000000
+      internalID: -4637173613161116416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a50528ed704330800000000000000
+      internalID: 3693090130450818812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f5cbbba9704940800000000000000
+      internalID: 5278352541774902170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d327747630c9b520800000000000000
+      internalID: 2718415190209536979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5239df71bcfac8d0800000000000000
+      internalID: -2825167976937213349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b7d63fdf9c1c20800000000000000
+      internalID: 3178591218063356001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650f24158f657100800000000000000
+      internalID: 105112783673034087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadef7a6c9d785df0800000000000000
+      internalID: -191264873408107090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114a9add54a84100800000000000000
+      internalID: 92504515367551258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d193cb54016fd0080800000000000000
+      internalID: -9219442312407664355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03331a3c791e569f0800000000000000
+      internalID: -475726143679286480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf94f881ae3c0370800000000000000
+      internalID: 8290069877590630336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338bcdce67f95010800000000000000
+      internalID: 1178244832805225270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3009b68931e6b50800000000000000
+      internalID: 6588224850250171350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ca6468c90699d0800000000000000
+      internalID: -2768014164689764107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c664c978e929020800000000000000
+      internalID: 2347112661093084315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ecfd208a9213c0800000000000000
+      internalID: -4390276811414772490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1674bd775d880ad0800000000000000
+      internalID: -2735781366716926435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e7c34f5523d8ca0800000000000000
+      internalID: -6013094582718529965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8a5b9d029ff5d0800000000000000
+      internalID: -3026539837431050962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94482ff4a8cd95130800000000000000
+      internalID: 3556115867390608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503a584feca48f30800000000000000
+      internalID: 4576973265026297939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045e85876b95eb30800000000000000
+      internalID: 4316026686829122560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfca6b95552d750800000000000000
+      internalID: 6328214270214208436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92330bb909a73c950800000000000000
+      internalID: 6468148251340059433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d7a4b3bc2885f0800000000000000
+      internalID: -754303787242890887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744036539dbff0d0800000000000000
+      internalID: -3386779954255477648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3cffc3e52206bc0800000000000000
+      internalID: -3791993098100292674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82920ac61e322e970800000000000000
+      internalID: 8782621674422937896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4458b8b33d5f60800000000000000
+      internalID: 8024626979503623793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde55d44d187a130800000000000000
+      internalID: 3577971177799675344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ae77dcd23803b0800000000000000
+      internalID: -5546127017017170493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d850003407edeb0800000000000000
+      internalID: -4693190328607994558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae3e83318b40bd20800000000000000
+      internalID: 3292214345895657125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3011db629027180800000000000000
+      internalID: -9119216233486416916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0cec2d1c943e40800000000000000
+      internalID: 5635300682868985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e8d4ba7eee5120800000000000000
+      internalID: 2404621461849957180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c9f6aec91885dd0800000000000000
+      internalID: -2497103482428875757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3648a6923d6470800000000000000
+      internalID: 8389417303510760204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978eba917776c900800000000000000
+      internalID: 704381721541248920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ad7ce4c58392b00800000000000000
+      internalID: 804235977572211245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb0633673439f8c0800000000000000
+      internalID: -3965080584430679045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feed3a5c4d5bfd40800000000000000
+      internalID: 5619187542587731705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93324c7f4c22a1b0800000000000000
+      internalID: -5646902262870428773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418d993a3b98c500800000000000000
+      internalID: 416753639908802892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b25c5e232f326a0800000000000000
+      internalID: -6475065538811450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a590f3f71ba077a10800000000000000
+      internalID: 1907004724675021146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a964a3a061a2d0800000000000000
+      internalID: -3269225598539946596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7fb3da3628c12c0800000000000000
+      internalID: -4459546166383872087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e6dc8e25df5b60800000000000000
+      internalID: 7737137080753908181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b2411ba28c53a0800000000000000
+      internalID: -6675316876429314453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f17ae229d6aed10800000000000000
+      internalID: 2155655846265560872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a2385722e3a2190800000000000000
+      internalID: -7986502671466812823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d939a63e888f79bc0800000000000000
+      internalID: -3776276495712218211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469c594dea2fdd60800000000000000
+      internalID: 7917093868567041607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690eea9e7c09eab70800000000000000
+      internalID: 8912219900906234006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36864d500fd334e40800000000000000
+      internalID: 5639419259497244771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bad1ed891523170800000000000000
+      internalID: 8156671592124754752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f4be185a0e63b0800000000000000
+      internalID: -5517461119893704364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5fbd2649079e80800000000000000
+      internalID: -8172052801820599761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b448d6e769f240800000000000000
+      internalID: 4826002716872718141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520fd285c43ea650800000000000000
+      internalID: 6245987756118311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd83c0d18a64d170800000000000000
+      internalID: 8202297927134318075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe7fbcf32238090800000000000000
+      internalID: -8033539652898525335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5502572c54415a0800000000000000
+      internalID: -6551534856426203688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f678d7b341ffe90800000000000000
+      internalID: -6989845850914066535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4c9a6a5b4f39920800000000000000
+      internalID: 2996007238153913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975c6d16dc6781b0800000000000000
+      internalID: -5654431140267927660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7353846fcac99060800000000000000
+      internalID: 6960817691171181434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547753b210f0c750800000000000000
+      internalID: 6323317839937107035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c922c4395482c00800000000000000
+      internalID: 876026626463407189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59353a967e3a3b6d0800000000000000
+      internalID: -2975854714456681579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c9da77b49bbda0800000000000000
+      internalID: -5927980968742108501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c563b3681be0258f0800000000000000
+      internalID: -553363648589121956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa5bc862f5d1370800000000000000
+      internalID: 8294890707860433559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c8181433dec7f70800000000000000
+      internalID: 9186478144327093250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-forest-tileset_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7585a2e715cc1d0800000000000000
+      internalID: -3329196422215477331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

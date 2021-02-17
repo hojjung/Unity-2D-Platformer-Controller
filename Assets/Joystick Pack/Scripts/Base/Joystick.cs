@@ -103,10 +103,12 @@ public class Joystick : MonoBehaviour, IPointerDownHandler, IDragHandler, IPoint
 
     private void FormatInput()
     {
+#if UNITY_EDITOR
         if (axisOptions == AxisOptions.Horizontal)
             input = new Vector2(input.x, 0f);
         else if (axisOptions == AxisOptions.Vertical)
             input = new Vector2(0f, input.y);
+#endif
     }
 
     private float SnapFloat(float value, AxisOptions snapAxis)

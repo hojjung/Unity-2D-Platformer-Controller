@@ -1,0 +1,3068 @@
+fileFormatVersion: 2
+guid: 33fcb6106ab535b4ea35987cc717c37d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5510140305208359486
+    second: top-down-town-tileset_0
+  - first:
+      213: 3221558307106836882
+    second: top-down-town-tileset_1
+  - first:
+      213: -3057528126902961849
+    second: top-down-town-tileset_2
+  - first:
+      213: 1849717236576283681
+    second: top-down-town-tileset_3
+  - first:
+      213: 6269350400822259757
+    second: top-down-town-tileset_4
+  - first:
+      213: 2717135139644191705
+    second: top-down-town-tileset_5
+  - first:
+      213: -8862255962961949146
+    second: top-down-town-tileset_6
+  - first:
+      213: -5619849887402998875
+    second: top-down-town-tileset_7
+  - first:
+      213: -7828181289510237056
+    second: top-down-town-tileset_8
+  - first:
+      213: 5622550663469736386
+    second: top-down-town-tileset_9
+  - first:
+      213: 1519777829014191639
+    second: top-down-town-tileset_10
+  - first:
+      213: 7086809295677938558
+    second: top-down-town-tileset_11
+  - first:
+      213: 9047449953713423714
+    second: top-down-town-tileset_12
+  - first:
+      213: 7084782694674132274
+    second: top-down-town-tileset_13
+  - first:
+      213: 3949433521719364371
+    second: top-down-town-tileset_14
+  - first:
+      213: -7493142315920747705
+    second: top-down-town-tileset_15
+  - first:
+      213: 8039781263506724357
+    second: top-down-town-tileset_16
+  - first:
+      213: -8604176934859706683
+    second: top-down-town-tileset_17
+  - first:
+      213: -5867767025583313511
+    second: top-down-town-tileset_18
+  - first:
+      213: 6265442162501100508
+    second: top-down-town-tileset_19
+  - first:
+      213: 3575525729314689035
+    second: top-down-town-tileset_20
+  - first:
+      213: 4629358636528323251
+    second: top-down-town-tileset_21
+  - first:
+      213: -135279713231335365
+    second: top-down-town-tileset_22
+  - first:
+      213: 6838245244523118919
+    second: top-down-town-tileset_23
+  - first:
+      213: -1954418405215690685
+    second: top-down-town-tileset_24
+  - first:
+      213: -518690640128046738
+    second: top-down-town-tileset_25
+  - first:
+      213: -280002715220439133
+    second: top-down-town-tileset_26
+  - first:
+      213: 2405286939871740275
+    second: top-down-town-tileset_27
+  - first:
+      213: -7060857061964738876
+    second: top-down-town-tileset_28
+  - first:
+      213: 598699742214797356
+    second: top-down-town-tileset_29
+  - first:
+      213: -5829610529599424308
+    second: top-down-town-tileset_30
+  - first:
+      213: 10813602804943088
+    second: top-down-town-tileset_31
+  - first:
+      213: -2259463021395053522
+    second: top-down-town-tileset_32
+  - first:
+      213: -4646428553366165409
+    second: top-down-town-tileset_33
+  - first:
+      213: -5197288588718834962
+    second: top-down-town-tileset_34
+  - first:
+      213: 4230785180486016685
+    second: top-down-town-tileset_35
+  - first:
+      213: 2960720732216101204
+    second: top-down-town-tileset_36
+  - first:
+      213: -1176703440113176349
+    second: top-down-town-tileset_37
+  - first:
+      213: -5276704479816667985
+    second: top-down-town-tileset_38
+  - first:
+      213: -3688798607727813828
+    second: top-down-town-tileset_39
+  - first:
+      213: 1434705279485229719
+    second: top-down-town-tileset_40
+  - first:
+      213: 3436129635765357999
+    second: top-down-town-tileset_41
+  - first:
+      213: 1268326017381022279
+    second: top-down-town-tileset_42
+  - first:
+      213: -4808160786263911418
+    second: top-down-town-tileset_43
+  - first:
+      213: -1248033595397436510
+    second: top-down-town-tileset_44
+  - first:
+      213: 4249339213641082068
+    second: top-down-town-tileset_45
+  - first:
+      213: -5092325372802432552
+    second: top-down-town-tileset_46
+  - first:
+      213: -4003426831046928743
+    second: top-down-town-tileset_47
+  - first:
+      213: 5966063875927714040
+    second: top-down-town-tileset_48
+  - first:
+      213: -3225755040975328689
+    second: top-down-town-tileset_49
+  - first:
+      213: -3055967606293859217
+    second: top-down-town-tileset_50
+  - first:
+      213: 1422721753151036633
+    second: top-down-town-tileset_51
+  - first:
+      213: -4537071438567738645
+    second: top-down-town-tileset_52
+  - first:
+      213: 8179390301255265587
+    second: top-down-town-tileset_53
+  - first:
+      213: 6175104122824529001
+    second: top-down-town-tileset_54
+  - first:
+      213: -456539014656247400
+    second: top-down-town-tileset_55
+  - first:
+      213: 3863173562623111073
+    second: top-down-town-tileset_56
+  - first:
+      213: -361210219143529646
+    second: top-down-town-tileset_57
+  - first:
+      213: 3835791226028895189
+    second: top-down-town-tileset_58
+  - first:
+      213: 7722449552554098562
+    second: top-down-town-tileset_59
+  - first:
+      213: -8258868350786407797
+    second: top-down-town-tileset_60
+  - first:
+      213: -4647514819080947883
+    second: top-down-town-tileset_61
+  - first:
+      213: -6392317373757914642
+    second: top-down-town-tileset_62
+  - first:
+      213: 2094796872217701926
+    second: top-down-town-tileset_63
+  - first:
+      213: -3921782042170468488
+    second: top-down-town-tileset_64
+  - first:
+      213: 6147890921031879989
+    second: top-down-town-tileset_65
+  - first:
+      213: 6492838726563498239
+    second: top-down-town-tileset_66
+  - first:
+      213: -2903993037050922758
+    second: top-down-town-tileset_67
+  - first:
+      213: 8347001371005156198
+    second: top-down-town-tileset_68
+  - first:
+      213: -1241153147740805115
+    second: top-down-town-tileset_69
+  - first:
+      213: 3354283009055191080
+    second: top-down-town-tileset_70
+  - first:
+      213: -7466442960967011536
+    second: top-down-town-tileset_71
+  - first:
+      213: 3693119826525700028
+    second: top-down-town-tileset_72
+  - first:
+      213: -6443299768186957493
+    second: top-down-town-tileset_73
+  - first:
+      213: 2377828317640362167
+    second: top-down-town-tileset_74
+  - first:
+      213: -5902691133492045144
+    second: top-down-town-tileset_75
+  - first:
+      213: -3048590578564048155
+    second: top-down-town-tileset_76
+  - first:
+      213: -8634172736362025325
+    second: top-down-town-tileset_77
+  - first:
+      213: -5953689887870558029
+    second: top-down-town-tileset_78
+  - first:
+      213: -431253648550854317
+    second: top-down-town-tileset_79
+  - first:
+      213: 6354218399354969322
+    second: top-down-town-tileset_80
+  - first:
+      213: -1021856578868622673
+    second: top-down-town-tileset_81
+  - first:
+      213: -5230819451116714831
+    second: top-down-town-tileset_82
+  - first:
+      213: 7668475567967683634
+    second: top-down-town-tileset_83
+  - first:
+      213: 4171277386309477032
+    second: top-down-town-tileset_84
+  - first:
+      213: 6366667617761222601
+    second: top-down-town-tileset_85
+  - first:
+      213: 6828789643801495842
+    second: top-down-town-tileset_86
+  - first:
+      213: 2484932245356526535
+    second: top-down-town-tileset_87
+  - first:
+      213: 495325391641538206
+    second: top-down-town-tileset_88
+  - first:
+      213: 6293689045254622736
+    second: top-down-town-tileset_89
+  - first:
+      213: -2263973040759909167
+    second: top-down-town-tileset_90
+  - first:
+      213: 1522111520170980708
+    second: top-down-town-tileset_91
+  - first:
+      213: 329585543133465475
+    second: top-down-town-tileset_92
+  - first:
+      213: 2357534794267992068
+    second: top-down-town-tileset_93
+  - first:
+      213: 6219086483370806398
+    second: top-down-town-tileset_94
+  - first:
+      213: -1513282679465495835
+    second: top-down-town-tileset_95
+  - first:
+      213: -504701888517589056
+    second: top-down-town-tileset_96
+  - first:
+      213: 6206757459099230468
+    second: top-down-town-tileset_97
+  - first:
+      213: 3157484529321823353
+    second: top-down-town-tileset_98
+  - first:
+      213: 2341246017479155110
+    second: top-down-town-tileset_99
+  - first:
+      213: -1043204415647436239
+    second: top-down-town-tileset_100
+  - first:
+      213: 4405590365057512956
+    second: top-down-town-tileset_101
+  - first:
+      213: 8813402782357176513
+    second: top-down-town-tileset_102
+  - first:
+      213: -6649618575059616604
+    second: top-down-town-tileset_103
+  - first:
+      213: -6680267952875895462
+    second: top-down-town-tileset_104
+  - first:
+      213: 669004925189928694
+    second: top-down-town-tileset_105
+  - first:
+      213: 595774021244212608
+    second: top-down-town-tileset_106
+  - first:
+      213: -538608134862159724
+    second: top-down-town-tileset_107
+  - first:
+      213: -9037548333577626604
+    second: top-down-town-tileset_108
+  - first:
+      213: -5547554004584108989
+    second: top-down-town-tileset_109
+  - first:
+      213: 7197211069709943499
+    second: top-down-town-tileset_110
+  - first:
+      213: -1897942945165773527
+    second: top-down-town-tileset_111
+  - first:
+      213: 3154994930329357554
+    second: top-down-town-tileset_112
+  - first:
+      213: 5965168342123332064
+    second: top-down-town-tileset_113
+  - first:
+      213: -3807000180081139290
+    second: top-down-town-tileset_114
+  - first:
+      213: 8654614533462470242
+    second: top-down-town-tileset_115
+  - first:
+      213: -6461298386972055902
+    second: top-down-town-tileset_116
+  - first:
+      213: -457863600926042867
+    second: top-down-town-tileset_117
+  - first:
+      213: -3992508223805790098
+    second: top-down-town-tileset_118
+  - first:
+      213: -1286304562493048404
+    second: top-down-town-tileset_119
+  - first:
+      213: 5703241381278714247
+    second: top-down-town-tileset_120
+  - first:
+      213: -2467097485840511894
+    second: top-down-town-tileset_121
+  - first:
+      213: 4717464400325924876
+    second: top-down-town-tileset_122
+  - first:
+      213: 1587538979409345062
+    second: top-down-town-tileset_123
+  - first:
+      213: 3039426416595473078
+    second: top-down-town-tileset_124
+  - first:
+      213: 4892644083131784799
+    second: top-down-town-tileset_125
+  - first:
+      213: -331154353179303682
+    second: top-down-town-tileset_126
+  - first:
+      213: -2799966212400750307
+    second: top-down-town-tileset_127
+  - first:
+      213: 1197211353104864374
+    second: top-down-town-tileset_128
+  - first:
+      213: -6682613242620614942
+    second: top-down-town-tileset_129
+  - first:
+      213: -5843583871879217662
+    second: top-down-town-tileset_130
+  - first:
+      213: 3729882894342266453
+    second: top-down-town-tileset_131
+  - first:
+      213: -2723289147123643325
+    second: top-down-town-tileset_132
+  - first:
+      213: -8909111378537338361
+    second: top-down-town-tileset_133
+  - first:
+      213: 240555042219292247
+    second: top-down-town-tileset_134
+  - first:
+      213: 2233015694021060666
+    second: top-down-town-tileset_135
+  - first:
+      213: -7419563011281248043
+    second: top-down-town-tileset_136
+  - first:
+      213: -5736069375970707524
+    second: top-down-town-tileset_137
+  - first:
+      213: -998567521154814328
+    second: top-down-town-tileset_138
+  - first:
+      213: 6345252686557857276
+    second: top-down-town-tileset_139
+  - first:
+      213: 8280400310224261315
+    second: top-down-town-tileset_140
+  - first:
+      213: -510711211316697940
+    second: top-down-town-tileset_141
+  - first:
+      213: -7103465724972363590
+    second: top-down-town-tileset_142
+  - first:
+      213: 2357612159646934963
+    second: top-down-town-tileset_143
+  - first:
+      213: 8097869802057025466
+    second: top-down-town-tileset_144
+  - first:
+      213: -5489275912676297452
+    second: top-down-town-tileset_145
+  - first:
+      213: -8879333415505566561
+    second: top-down-town-tileset_146
+  - first:
+      213: -1103067417642937390
+    second: top-down-town-tileset_147
+  - first:
+      213: 1761290233759044243
+    second: top-down-town-tileset_148
+  - first:
+      213: -9168364753562902163
+    second: top-down-town-tileset_149
+  - first:
+      213: 4571085866959485066
+    second: top-down-town-tileset_150
+  - first:
+      213: -1458718252757577285
+    second: top-down-town-tileset_151
+  - first:
+      213: 2338428027168659106
+    second: top-down-town-tileset_152
+  - first:
+      213: 3202014792305794984
+    second: top-down-town-tileset_153
+  - first:
+      213: -5058400945475958318
+    second: top-down-town-tileset_154
+  - first:
+      213: 394125626792571876
+    second: top-down-town-tileset_155
+  - first:
+      213: 205238585191943967
+    second: top-down-town-tileset_156
+  - first:
+      213: 977700395987104344
+    second: top-down-town-tileset_157
+  - first:
+      213: 7037173601035466938
+    second: top-down-town-tileset_158
+  - first:
+      213: -7315571985619020690
+    second: top-down-town-tileset_159
+  - first:
+      213: -3408320845694548563
+    second: top-down-town-tileset_160
+  - first:
+      213: 4378665728196620258
+    second: top-down-town-tileset_161
+  - first:
+      213: -429491157740248558
+    second: top-down-town-tileset_162
+  - first:
+      213: 1588420025879189608
+    second: top-down-town-tileset_163
+  - first:
+      213: 6885271732431176568
+    second: top-down-town-tileset_164
+  - first:
+      213: 3153883238361083082
+    second: top-down-town-tileset_165
+  - first:
+      213: 1853527357357039337
+    second: top-down-town-tileset_166
+  - first:
+      213: 7373994155676875636
+    second: top-down-town-tileset_167
+  - first:
+      213: -4679983637620777172
+    second: top-down-town-tileset_168
+  - first:
+      213: -1818812682658524951
+    second: top-down-town-tileset_169
+  - first:
+      213: -4003218917902164095
+    second: top-down-town-tileset_170
+  - first:
+      213: 919057797831932096
+    second: top-down-town-tileset_171
+  - first:
+      213: 5456684232112652193
+    second: top-down-town-tileset_172
+  - first:
+      213: 4414482535234246082
+    second: top-down-town-tileset_173
+  - first:
+      213: 5040599404883521478
+    second: top-down-town-tileset_174
+  - first:
+      213: 128021575805951008
+    second: top-down-town-tileset_175
+  - first:
+      213: -7981243638122940361
+    second: top-down-town-tileset_176
+  - first:
+      213: 5452297826237587981
+    second: top-down-town-tileset_177
+  - first:
+      213: 6078916184094239955
+    second: top-down-town-tileset_178
+  - first:
+      213: -4628624546771174016
+    second: top-down-town-tileset_179
+  - first:
+      213: 2196949903469636361
+    second: top-down-town-tileset_180
+  - first:
+      213: -1308190225955083612
+    second: top-down-town-tileset_181
+  - first:
+      213: 9124596936218027061
+    second: top-down-town-tileset_182
+  - first:
+      213: 6254945057590884161
+    second: top-down-town-tileset_183
+  - first:
+      213: 2810792849714761291
+    second: top-down-town-tileset_184
+  - first:
+      213: -2086694170161894300
+    second: top-down-town-tileset_185
+  - first:
+      213: -733583915683009879
+    second: top-down-town-tileset_186
+  - first:
+      213: 6007077695104907573
+    second: top-down-town-tileset_187
+  - first:
+      213: 3959814474876477305
+    second: top-down-town-tileset_188
+  - first:
+      213: -2698625738125458680
+    second: top-down-town-tileset_189
+  - first:
+      213: 5662444343211878123
+    second: top-down-town-tileset_190
+  - first:
+      213: 7225572616308786888
+    second: top-down-town-tileset_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-down-town-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c54e7d169c0883b0800000000000000
+      internalID: -5510140305208359486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291df46363645bc20800000000000000
+      internalID: 3221558307106836882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fe293e5a7195d0800000000000000
+      internalID: -3057528126902961849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ceb05c6048ba910800000000000000
+      internalID: 1849717236576283681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b67d19f4310750800000000000000
+      internalID: 6269350400822259757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d33935730435b520800000000000000
+      internalID: 2717135139644191705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec01be721f20580800000000000000
+      internalID: -8862255962961949146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3435a7d484202b0800000000000000
+      internalID: -5619849887402998875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0269b796bc5390800000000000000
+      internalID: -7828181289510237056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c120c3f900570e40800000000000000
+      internalID: 5622550663469736386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb7e322e5571510800000000000000
+      internalID: 1519777829014191639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd1d3c187695260800000000000000
+      internalID: 7086809295677938558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26586362ccffe8d70800000000000000
+      internalID: 9047449953713423714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de2e2f254325260800000000000000
+      internalID: 7084782694674132274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4a1eecd43fc630800000000000000
+      internalID: 3949433521719364371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743981893c2030890800000000000000
+      internalID: -7493142315920747705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d82b667a039f60800000000000000
+      internalID: 8039781263506724357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee3152aa2d79880800000000000000
+      internalID: -8604176934859706683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2b5f9af0819ea0800000000000000
+      internalID: -5867767025583313511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd322a8737253f650800000000000000
+      internalID: 6265442162501100508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005215f4b1de9130800000000000000
+      internalID: 3575525729314689035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba482c0729ce3040800000000000000
+      internalID: 4629358636528323251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30978b41d36f1ef0800000000000000
+      internalID: -135279713231335365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7410eceb1d356ee50800000000000000
+      internalID: 6838245244523118919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34022aeb0d280e4e0800000000000000
+      internalID: -1954418405215690685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6909d66c9d3dc8f0800000000000000
+      internalID: -518690640128046738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af0427930b3d1cf0800000000000000
+      internalID: -280002715220439133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37101f16abb416120800000000000000
+      internalID: 2405286939871740275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce88c389ebc20e90800000000000000
+      internalID: -7060857061964738876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b4d55e320f4800800000000000000
+      internalID: 598699742214797356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc879542c10191fa0800000000000000
+      internalID: -5829610529599424308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f84ee91aea662000800000000000000
+      internalID: 10813602804943088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24fd9a6a56c4a0e0800000000000000
+      internalID: -2259463021395053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a06a39d1948fb0800000000000000
+      internalID: -4646428553366165409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf832a0958fd7b0800000000000000
+      internalID: -5197288588718834962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae1bdbb4b4c6ba30800000000000000
+      internalID: 4230785180486016685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45900e2c1d7961920800000000000000
+      internalID: 2960720732216101204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f216a4728bafe0800000000000000
+      internalID: -1176703440113176349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca0d79b3165c6b0800000000000000
+      internalID: -5276704479816667985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9d6ad531ceccc0800000000000000
+      internalID: -3688798607727813828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a381da9d819e310800000000000000
+      internalID: 1434705279485229719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad8cf5c2b59faf20800000000000000
+      internalID: 3436129635765357999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab16dfacff99110800000000000000
+      internalID: 1268326017381022279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d6c75d3bf54db0800000000000000
+      internalID: -4808160786263911418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab059eae081eaee0800000000000000
+      internalID: -1248033595397436510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e637308fa8fa30800000000000000
+      internalID: 4249339213641082068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10761cd0d6459b0800000000000000
+      internalID: -5092325372802432552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961e2b1288f078c0800000000000000
+      internalID: -4003426831046928743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f826ff4c77bbc250800000000000000
+      internalID: 5966063875927714040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6d3a81e0db33d0800000000000000
+      internalID: -3225755040975328689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f0cd37a50795d0800000000000000
+      internalID: -3055967606293859217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd9c685e58eb310800000000000000
+      internalID: 1422721753151036633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be27997a0951901c0800000000000000
+      internalID: -4537071438567738645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d68998428038170800000000000000
+      internalID: 8179390301255265587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964910c8b7062b550800000000000000
+      internalID: 6175104122824529001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899be4d5f2c0aa9f0800000000000000
+      internalID: -456539014656247400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa4d123efbc9530800000000000000
+      internalID: 3863173562623111073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b75be2839bcfaf0800000000000000
+      internalID: -361210219143529646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db23041cc77b3530800000000000000
+      internalID: 3835791226028895189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7cd7e3f6ab2b60800000000000000
+      internalID: 7722449552554098562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f8a80efa926d80800000000000000
+      internalID: -8258868350786407797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f05845e5b08fb0800000000000000
+      internalID: -4647514819080947883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10a9d673de947a0800000000000000
+      internalID: -6392317373757914642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea22518a6321d10800000000000000
+      internalID: 2094796872217701926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775ce9d2080399c0800000000000000
+      internalID: -3921782042170468488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d44f14832b15550800000000000000
+      internalID: 6147890921031879989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff887b8db623b1a50800000000000000
+      internalID: 6492838726563498239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83f5408b1f2b7d0800000000000000
+      internalID: -2903993037050922758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf57ac58186d370800000000000000
+      internalID: 8347001371005156198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5082d0db9c986cee0800000000000000
+      internalID: -1241153147740805115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fcdeff9ecc8e20800000000000000
+      internalID: 3354283009055191080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03378d79fadd16890800000000000000
+      internalID: -7466442960967011536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf340d4ae8904330800000000000000
+      internalID: 3693119826525700028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411cd7bffcc496a0800000000000000
+      internalID: -6443299768186957493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b881d1b14ebff020800000000000000
+      internalID: 2377828317640362167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aadb5910bd651ea0800000000000000
+      internalID: -5902691133492045144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea561b550b31b5d0800000000000000
+      internalID: -3048590578564048155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e67cf54a14d2880800000000000000
+      internalID: -8634172736362025325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e3aa479e306da0800000000000000
+      internalID: -5953689887870558029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351090e6711e30af0800000000000000
+      internalID: -431253648550854317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecddc6d7f7be2850800000000000000
+      internalID: 6354218399354969322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac3250bd2a1d1f0800000000000000
+      internalID: -1021856578868622673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40cfb5c656867b0800000000000000
+      internalID: -5230819451116714831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234c97556e5eb6a60800000000000000
+      internalID: 7668475567967683634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a896beaa53e930800000000000000
+      internalID: 4171277386309477032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd3af5772fa5850800000000000000
+      internalID: 6366667617761222601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22987a4200cb4ce50800000000000000
+      internalID: 6828789643801495842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb36f16b04c7220800000000000000
+      internalID: 2484932245356526535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6601c1dfbfd600800000000000000
+      internalID: 495325391641538206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4b2d57dca75750800000000000000
+      internalID: 6293689045254622736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d174b380c490e0800000000000000
+      internalID: -2263973040759909167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653254fc50af1510800000000000000
+      internalID: 1522111520170980708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b03952e4ce29400800000000000000
+      internalID: 329585543133465475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a7f59765a7b020800000000000000
+      internalID: 2357534794267992068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c00ccd432ae4650800000000000000
+      internalID: 6219086483370806398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e235b5bb6dbffae0800000000000000
+      internalID: -1513282679465495835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b0717e40fef8f0800000000000000
+      internalID: -504701888517589056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ad943605d22650800000000000000
+      internalID: 6206757459099230468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc40a4373a1db20800000000000000
+      internalID: 3157484529321823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad94a339d6cd7020800000000000000
+      internalID: 2341246017479155110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13237317c1bc581f0800000000000000
+      internalID: -1043204415647436239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f22f581dc32d30800000000000000
+      internalID: 4405590365057512956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c6d8922f7f4a70800000000000000
+      internalID: 8813402782357176513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7bbd132fc7b3a0800000000000000
+      internalID: -6649618575059616604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550860c0bbea43a0800000000000000
+      internalID: -6680267952875895462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6bee65f68c84900800000000000000
+      internalID: 669004925189928694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085daa6d05d944800800000000000000
+      internalID: 595774021244212608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c76841ca7688f0800000000000000
+      internalID: -538608134862159724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9ea07cad249280800000000000000
+      internalID: -9037548333577626604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce77866012303b0800000000000000
+      internalID: -5547554004584108989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2029fd551a1e360800000000000000
+      internalID: 7197211069709943499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down-town-tileset_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257f6572f629a5e0800000000000000
+      internalID: -1897942945165773527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
