@@ -612,7 +612,7 @@ TextureImporter:
       213: -6140929260533219159
     second: top-down-forest-tileset_202
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -632,6 +632,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -640,9 +642,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -663,10 +665,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -718,6 +724,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3051,6 +3069,117 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      top-down-forest-tileset_95: 8202297927134318075
+      top-down-forest-tileset_2: -6055985321785675964
+      top-down-forest-tileset_84: 2155655846265560872
+      top-down-forest-tileset_13: 1786830780262703448
+      top-down-forest-tileset_102: 6323317839937107035
+      top-down-forest-tileset_71: 8389417303510760204
+      top-down-forest-tileset_7: 191988761434596993
+      top-down-forest-tileset_9: 8198237757216810482
+      top-down-forest-tileset_41: 92504515367551258
+      top-down-forest-tileset_33: -4637173613161116416
+      top-down-forest-tileset_88: 8912219900906234006
+      top-down-forest-tileset_12: 5992477565788648617
+      top-down-forest-tileset_15: 9157831321220061695
+      top-down-forest-tileset_21: 1333588755100629067
+      top-down-forest-tileset_64: -5546127017017170493
+      top-down-forest-tileset_36: 2718415190209536979
+      top-down-forest-tileset_28: -2551883367635698856
+      top-down-forest-tileset_4: 3167192549898907690
+      top-down-forest-tileset_97: -6551534856426203688
+      top-down-forest-tileset_54: 4576973265026297939
+      top-down-forest-tileset_73: 804235977572211245
+      top-down-forest-tileset_5: -8991151150397471879
+      top-down-forest-tileset_93: 4826002716872718141
+      top-down-forest-tileset_40: -191264873408107090
+      top-down-forest-tileset_80: -3269225598539946596
+      top-down-forest-tileset_61: 8782621674422937896
+      top-down-forest-tileset_47: -2768014164689764107
+      top-down-forest-tileset_11: -2285049631439639360
+      top-down-forest-tileset_37: -2825167976937213349
+      top-down-forest-tileset_82: 7737137080753908181
+      top-down-forest-tileset_62: 8024626979503623793
+      top-down-forest-tileset_22: 506306805455784369
+      top-down-forest-tileset_104: -2975854714456681579
+      top-down-forest-tileset_1: 2104837908650638955
+      top-down-forest-tileset_85: -7986502671466812823
+      top-down-forest-tileset_49: -4390276811414772490
+      top-down-forest-tileset_107: 8294890707860433559
+      top-down-forest-tileset_6: 2556475827213176496
+      top-down-forest-tileset_72: 704381721541248920
+      top-down-forest-tileset_53: 3556115867390608457
+      top-down-forest-tileset_27: 706735496322375371
+      top-down-forest-tileset_79: 1907004724675021146
+      top-down-forest-tileset_81: -4459546166383872087
+      top-down-forest-tileset_52: -3026539837431050962
+      top-down-forest-tileset_63: 3577971177799675344
+      top-down-forest-tileset_91: -5517461119893704364
+      top-down-forest-tileset_87: 7917093868567041607
+      top-down-forest-tileset_66: 3292214345895657125
+      top-down-forest-tileset_39: 105112783673034087
+      top-down-forest-tileset_108: 9186478144327093250
+      top-down-forest-tileset_70: -2497103482428875757
+      top-down-forest-tileset_99: 2996007238153913543
+      top-down-forest-tileset_25: -3972703043473600818
+      top-down-forest-tileset_77: 416753639908802892
+      top-down-forest-tileset_89: 5639419259497244771
+      top-down-forest-tileset_74: -3965080584430679045
+      top-down-forest-tileset_98: -6989845850914066535
+      top-down-forest-tileset_69: 2404621461849957180
+      top-down-forest-tileset_0: -2490813466703122743
+      top-down-forest-tileset_90: 8156671592124754752
+      top-down-forest-tileset_30: 3309809445434407465
+      top-down-forest-tileset_60: -3791993098100292674
+      top-down-forest-tileset_14: -508519376776852650
+      top-down-forest-tileset_58: -754303787242890887
+      top-down-forest-tileset_92: -8172052801820599761
+      top-down-forest-tileset_26: 4597390696459159756
+      top-down-forest-tileset_96: -8033539652898525335
+      top-down-forest-tileset_105: -5927980968742108501
+      top-down-forest-tileset_59: -3386779954255477648
+      top-down-forest-tileset_101: 6960817691171181434
+      top-down-forest-tileset_44: 8290069877590630336
+      top-down-forest-tileset_106: -553363648589121956
+      top-down-forest-tileset_35: 5278352541774902170
+      top-down-forest-tileset_32: -4510504253795357962
+      top-down-forest-tileset_68: 5635300682868985505
+      top-down-forest-tileset_3: -7837148572417327593
+      top-down-forest-tileset_75: 5619187542587731705
+      top-down-forest-tileset_94: 6245987756118311508
+      top-down-forest-tileset_17: -2817963203427326827
+      top-down-forest-tileset_109: -3329196422215477331
+      top-down-forest-tileset_55: 4316026686829122560
+      top-down-forest-tileset_23: -2015422823206939363
+      top-down-forest-tileset_34: 3693090130450818812
+      top-down-forest-tileset_48: 2347112661093084315
+      top-down-forest-tileset_57: 6468148251340059433
+      top-down-forest-tileset_51: -6013094582718529965
+      top-down-forest-tileset_67: -9119216233486416916
+      top-down-forest-tileset_78: -6475065538811450519
+      top-down-forest-tileset_20: -4564885169063104380
+      top-down-forest-tileset_56: 6328214270214208436
+      top-down-forest-tileset_76: -5646902262870428773
+      top-down-forest-tileset_31: 3812376334046895155
+      top-down-forest-tileset_43: -475726143679286480
+      top-down-forest-tileset_65: -4693190328607994558
+      top-down-forest-tileset_83: -6675316876429314453
+      top-down-forest-tileset_19: -4709250564925452484
+      top-down-forest-tileset_24: 3815604364413862748
+      top-down-forest-tileset_103: 876026626463407189
+      top-down-forest-tileset_10: -4792205272340631534
+      top-down-forest-tileset_18: 4315992564951405858
+      top-down-forest-tileset_42: -9219442312407664355
+      top-down-forest-tileset_38: 3178591218063356001
+      top-down-forest-tileset_16: -436312740622920462
+      top-down-forest-tileset_8: 3104035303066772378
+      top-down-forest-tileset_46: 6588224850250171350
+      top-down-forest-tileset_50: -2735781366716926435
+      top-down-forest-tileset_45: 1178244832805225270
+      top-down-forest-tileset_29: -8353574442498845839
+      top-down-forest-tileset_86: -3776276495712218211
+      top-down-forest-tileset_100: -5654431140267927660
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

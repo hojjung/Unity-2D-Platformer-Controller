@@ -579,7 +579,7 @@ TextureImporter:
       213: 7225572616308786888
     second: top-down-town-tileset_191
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -599,6 +599,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -607,9 +609,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -630,10 +632,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -685,6 +691,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3060,6 +3078,119 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      top-down-town-tileset_71: -7466442960967011536
+      top-down-town-tileset_58: 3835791226028895189
+      top-down-town-tileset_2: -3057528126902961849
+      top-down-town-tileset_72: 3693119826525700028
+      top-down-town-tileset_97: 6206757459099230468
+      top-down-town-tileset_10: 1519777829014191639
+      top-down-town-tileset_22: -135279713231335365
+      top-down-town-tileset_55: -456539014656247400
+      top-down-town-tileset_47: -4003426831046928743
+      top-down-town-tileset_80: 6354218399354969322
+      top-down-town-tileset_98: 3157484529321823353
+      top-down-town-tileset_54: 6175104122824529001
+      top-down-town-tileset_66: 6492838726563498239
+      top-down-town-tileset_93: 2357534794267992068
+      top-down-town-tileset_9: 5622550663469736386
+      top-down-town-tileset_29: 598699742214797356
+      top-down-town-tileset_30: -5829610529599424308
+      top-down-town-tileset_38: -5276704479816667985
+      top-down-town-tileset_44: -1248033595397436510
+      top-down-town-tileset_46: -5092325372802432552
+      top-down-town-tileset_101: 4405590365057512956
+      top-down-town-tileset_102: 8813402782357176513
+      top-down-town-tileset_61: -4647514819080947883
+      top-down-town-tileset_8: -7828181289510237056
+      top-down-town-tileset_14: 3949433521719364371
+      top-down-town-tileset_23: 6838245244523118919
+      top-down-town-tileset_60: -8258868350786407797
+      top-down-town-tileset_16: 8039781263506724357
+      top-down-town-tileset_89: 6293689045254622736
+      top-down-town-tileset_6: -8862255962961949146
+      top-down-town-tileset_77: -8634172736362025325
+      top-down-town-tileset_26: -280002715220439133
+      top-down-town-tileset_19: 6265442162501100508
+      top-down-town-tileset_57: -361210219143529646
+      top-down-town-tileset_108: -9037548333577626604
+      top-down-town-tileset_11: 7086809295677938558
+      top-down-town-tileset_87: 2484932245356526535
+      top-down-town-tileset_32: -2259463021395053522
+      top-down-town-tileset_100: -1043204415647436239
+      top-down-town-tileset_5: 2717135139644191705
+      top-down-town-tileset_81: -1021856578868622673
+      top-down-town-tileset_103: -6649618575059616604
+      top-down-town-tileset_12: 9047449953713423714
+      top-down-town-tileset_68: 8347001371005156198
+      top-down-town-tileset_67: -2903993037050922758
+      top-down-town-tileset_96: -504701888517589056
+      top-down-town-tileset_43: -4808160786263911418
+      top-down-town-tileset_40: 1434705279485229719
+      top-down-town-tileset_82: -5230819451116714831
+      top-down-town-tileset_33: -4646428553366165409
+      top-down-town-tileset_107: -538608134862159724
+      top-down-town-tileset_24: -1954418405215690685
+      top-down-town-tileset_37: -1176703440113176349
+      top-down-town-tileset_106: 595774021244212608
+      top-down-town-tileset_94: 6219086483370806398
+      top-down-town-tileset_105: 669004925189928694
+      top-down-town-tileset_3: 1849717236576283681
+      top-down-town-tileset_1: 3221558307106836882
+      top-down-town-tileset_45: 4249339213641082068
+      top-down-town-tileset_50: -3055967606293859217
+      top-down-town-tileset_104: -6680267952875895462
+      top-down-town-tileset_27: 2405286939871740275
+      top-down-town-tileset_59: 7722449552554098562
+      top-down-town-tileset_36: 2960720732216101204
+      top-down-town-tileset_99: 2341246017479155110
+      top-down-town-tileset_110: 7197211069709943499
+      top-down-town-tileset_64: -3921782042170468488
+      top-down-town-tileset_52: -4537071438567738645
+      top-down-town-tileset_63: 2094796872217701926
+      top-down-town-tileset_0: -5510140305208359486
+      top-down-town-tileset_35: 4230785180486016685
+      top-down-town-tileset_49: -3225755040975328689
+      top-down-town-tileset_65: 6147890921031879989
+      top-down-town-tileset_20: 3575525729314689035
+      top-down-town-tileset_79: -431253648550854317
+      top-down-town-tileset_90: -2263973040759909167
+      top-down-town-tileset_13: 7084782694674132274
+      top-down-town-tileset_62: -6392317373757914642
+      top-down-town-tileset_85: 6366667617761222601
+      top-down-town-tileset_17: -8604176934859706683
+      top-down-town-tileset_84: 4171277386309477032
+      top-down-town-tileset_73: -6443299768186957493
+      top-down-town-tileset_28: -7060857061964738876
+      top-down-town-tileset_78: -5953689887870558029
+      top-down-town-tileset_31: 10813602804943088
+      top-down-town-tileset_34: -5197288588718834962
+      top-down-town-tileset_48: 5966063875927714040
+      top-down-town-tileset_88: 495325391641538206
+      top-down-town-tileset_95: -1513282679465495835
+      top-down-town-tileset_92: 329585543133465475
+      top-down-town-tileset_70: 3354283009055191080
+      top-down-town-tileset_74: 2377828317640362167
+      top-down-town-tileset_15: -7493142315920747705
+      top-down-town-tileset_18: -5867767025583313511
+      top-down-town-tileset_4: 6269350400822259757
+      top-down-town-tileset_51: 1422721753151036633
+      top-down-town-tileset_83: 7668475567967683634
+      top-down-town-tileset_91: 1522111520170980708
+      top-down-town-tileset_53: 8179390301255265587
+      top-down-town-tileset_39: -3688798607727813828
+      top-down-town-tileset_25: -518690640128046738
+      top-down-town-tileset_111: -1897942945165773527
+      top-down-town-tileset_75: -5902691133492045144
+      top-down-town-tileset_7: -5619849887402998875
+      top-down-town-tileset_21: 4629358636528323251
+      top-down-town-tileset_86: 6828789643801495842
+      top-down-town-tileset_41: 3436129635765357999
+      top-down-town-tileset_76: -3048590578564048155
+      top-down-town-tileset_69: -1241153147740805115
+      top-down-town-tileset_42: 1268326017381022279
+      top-down-town-tileset_109: -5547554004584108989
+      top-down-town-tileset_56: 3863173562623111073
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

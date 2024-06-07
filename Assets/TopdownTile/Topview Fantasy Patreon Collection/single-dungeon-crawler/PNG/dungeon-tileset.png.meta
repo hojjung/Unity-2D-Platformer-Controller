@@ -207,7 +207,7 @@ TextureImporter:
       213: 575094975868532301
     second: dungeon-tileset_67
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -227,6 +227,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -235,9 +237,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -258,10 +260,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -313,6 +319,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1092,6 +1110,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      dungeon-tileset_31: 2811643062761342710
+      dungeon-tileset_35: 3149294276895996494
+      dungeon-tileset_9: 2036109230100284037
+      dungeon-tileset_19: -1034054585964343371
+      dungeon-tileset_20: 7247718224015850980
+      dungeon-tileset_17: 3209631490324484554
+      dungeon-tileset_2: 4175439277627912826
+      dungeon-tileset_27: 2807860671466029838
+      dungeon-tileset_32: -6859923112932516339
+      dungeon-tileset_15: -7932577178510484766
+      dungeon-tileset_7: -8970790516610633398
+      dungeon-tileset_6: 3763410414103885016
+      dungeon-tileset_11: 5236573656162880633
+      dungeon-tileset_1: -8978765816094080497
+      dungeon-tileset_25: 4606725154546555209
+      dungeon-tileset_26: -6529604025461114832
+      dungeon-tileset_29: 8807100825226965661
+      dungeon-tileset_16: 16022705766843676
+      dungeon-tileset_28: 1877705794774885877
+      dungeon-tileset_34: -359208970532049891
+      dungeon-tileset_5: -4371685986090562963
+      dungeon-tileset_0: -164091414649130122
+      dungeon-tileset_21: -5919121540905696494
+      dungeon-tileset_12: -2319523759342379882
+      dungeon-tileset_4: 1729843736146365719
+      dungeon-tileset_22: -180322477424577502
+      dungeon-tileset_30: -7972016434751226278
+      dungeon-tileset_10: 2153011928127504618
+      dungeon-tileset_13: -8147652048239411931
+      dungeon-tileset_18: -1203210603467902396
+      dungeon-tileset_8: -8104472084648419596
+      dungeon-tileset_23: 4624690106460400851
+      dungeon-tileset_33: 2090030473860018229
+      dungeon-tileset_14: 8630969334291587063
+      dungeon-tileset_24: 5986372169000992031
+      dungeon-tileset_3: 1091328599462691885
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

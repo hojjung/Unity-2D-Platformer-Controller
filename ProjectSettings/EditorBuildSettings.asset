@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/AstarPathfindingProject/ExampleScenes/Example16_RVO 2D/RVO 2D.unity
-    guid: 05f4cef9e16814ff3908457d37cdcb33
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
